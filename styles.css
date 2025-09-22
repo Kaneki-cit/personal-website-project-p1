@@ -1,5 +1,19 @@
 body{
         background-color:rgb(48, 6, 6);
         color:deeppink;
-        font-family:Verdana, Geneva, Tahoma, sans-serif
+        }
+
+    h1{
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        color: darkgrey;
     }
+
+    h2{
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: darkgray;
+        background-color:brown;
+        font-size: 60px;
+    }
+
+
+
